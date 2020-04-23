@@ -1,0 +1,977 @@
+/*
+	@name landingpage___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; /*overflow-x:hidden;*/ }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1080px; height: 1969px; margin-left: auto; margin-right: auto;  }
+
+#_bg__landingpage___1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1969px;
+	background:rgba(255,255,255,255);
+}
+
+
+#e3 {
+	top: 989px !important;
+	position: absolute !important;
+	left: 62px;
+	width: 956px;
+	height: 289px;
+	background:url(skins/e3.png);
+	background-size:cover;
+}
+
+
+#header {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 120px;
+	background:rgba(0,0,0,255);
+}
+
+#group_1 {
+	top: 47px;
+	left: 506px;
+	width: 512px;
+	height: 27px;
+}
+
+#service {
+	top: 0px;
+	left: 231px;
+	width: 77px;
+	height: 31px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: center;
+	color:#fffefe;
+}
+
+
+#news {
+	top: 0px;
+	left: 167px;
+	width: 59px;
+	height: 31px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: center;
+	color:#fffefe;
+}
+
+
+#about_as {
+	top: 0px;
+	left: 65px;
+	width: 97px;
+	height: 31px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: center;
+	color:#fffefe;
+}
+
+
+#home {
+	top: 0px;
+	left: -3px;
+	width: 63px;
+	height: 31px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: center;
+	color:#fffefe;
+}
+
+
+#home_ek1 {
+	top: 0px;
+	left: -3px;
+	width: 63px;
+	height: 31px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: center;
+	color:#fffefe;
+}
+
+
+#support {
+	top: 0px;
+	left: 425px;
+	width: 89px;
+	height: 31px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: center;
+	color:#fffefe;
+}
+
+
+#customer {
+	top: 0px;
+	left: 313px;
+	width: 107px;
+	height: 31px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: center;
+	color:#fffefe;
+}
+
+
+#__________________ {
+	top: 451px;
+	left: 1005px;
+	width: 145px;
+	height: 46px;
+	font-family: Segoe UI;
+	font-size: 30px;
+	text-align: center;
+	color:#fffefe;
+}
+
+
+#rectangle_1 {
+	top: 120px;
+	left: 0px;
+	width: 1078px;
+	height: 325px;
+	border: 1px solid #707070;
+	background:rgba(146,142,142,255);
+}
+
+#group_2 {
+	top: 120.5px;
+	left: 0.5px;
+	width: 1080px;
+	height: 324px;
+}
+
+#line_1 {
+	top: -1px !important;
+	position: absolute !important;
+	left: -0px;
+	width: 1080.8621826172px;
+	height: 326.87347412109px;
+	background:url(skins/line_1.png);
+	background-size:cover;
+}
+
+
+#line_2 {
+	top: -1px !important;
+	position: absolute !important;
+	left: -0px;
+	width: 1080.8621826172px;
+	height: 326.87347412109px;
+	background:url(skins/line_2.png);
+	background-size:cover;
+}
+
+#group_3 {
+	top: 387px;
+	left: 503px;
+	width: 76px;
+	height: 12px;
+}
+
+#ellipse_1 {
+	top: 0px;
+	left: 0px;
+	width: 10px;
+	height: 10px;
+	-ms-border-radius: 6px / 6px;
+	-o-border-radius: 6px / 6px;
+	-moz-border-radius: 6px / 6px;
+	-webkit-border-radius: 6px / 6px;
+	border-radius: 6px / 6px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_4 {
+	top: 0px;
+	left: 48px;
+	width: 10px;
+	height: 10px;
+	-ms-border-radius: 6px / 6px;
+	-o-border-radius: 6px / 6px;
+	-moz-border-radius: 6px / 6px;
+	-webkit-border-radius: 6px / 6px;
+	border-radius: 6px / 6px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_3 {
+	top: 0px;
+	left: 32px;
+	width: 10px;
+	height: 10px;
+	-ms-border-radius: 6px / 6px;
+	-o-border-radius: 6px / 6px;
+	-moz-border-radius: 6px / 6px;
+	-webkit-border-radius: 6px / 6px;
+	border-radius: 6px / 6px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_5 {
+	top: 0px;
+	left: 64px;
+	width: 10px;
+	height: 10px;
+	-ms-border-radius: 6px / 6px;
+	-o-border-radius: 6px / 6px;
+	-moz-border-radius: 6px / 6px;
+	-webkit-border-radius: 6px / 6px;
+	border-radius: 6px / 6px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_2 {
+	top: 0px;
+	left: 16px;
+	width: 10px;
+	height: 10px;
+	-ms-border-radius: 6px / 6px;
+	-o-border-radius: 6px / 6px;
+	-moz-border-radius: 6px / 6px;
+	-webkit-border-radius: 6px / 6px;
+	border-radius: 6px / 6px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+#group_4 {
+	top: 166px;
+	left: 62px;
+	width: 243px;
+	height: 205px;
+}
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 241px;
+	height: 38px;
+	border: 1px solid #707070;
+	background:rgba(72,68,68,255);
+}
+
+
+#rectangle_7 {
+	top: 167px;
+	left: 0px;
+	width: 241px;
+	height: 36px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #707070;
+	background:rgba(72,68,68,255);
+}
+
+
+#rectangle_3 {
+	top: 81px;
+	left: 0px;
+	width: 241px;
+	height: 12px;
+	border: 1px solid #707070;
+	background:rgba(123,117,117,255);
+}
+
+
+#rectangle_4 {
+	top: 110px;
+	left: 0px;
+	width: 241px;
+	height: 12px;
+	border: 1px solid #707070;
+	background:rgba(123,117,117,255);
+}
+
+
+#rectangle_6 {
+	top: 136px;
+	left: 0px;
+	width: 241px;
+	height: 12px;
+	border: 1px solid #707070;
+	background:rgba(123,117,117,255);
+}
+
+
+#rectangle_5 {
+	top: 52px;
+	left: 0px;
+	width: 241px;
+	height: 12px;
+	border: 1px solid #707070;
+	background:rgba(123,117,117,255);
+}
+
+#repeat_grid_1 {
+	top: 1354px;
+	left: 62px;
+	width: 957px;
+	height: 281px;
+	overflow:hidden;
+}
+#group_12 {
+	top: 0px;
+	left: 0px;
+	width: 206px;
+	height: 281px;
+}
+#group_10 {
+	top: 151px;
+	left: 0px;
+	width: 206px;
+	height: 130px;
+}
+
+#maisie_williams {
+	top: 0px;
+	left: -4px;
+	width: 206px;
+	height: 43.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 25px;
+	text-align: center;
+	line-height: 25px;
+	color:#060606;
+}
+
+
+#game_of_thrones_wiki___arya_stark___game_of_thrones {
+	top: 42px;
+	left: -3px;
+	width: 206px;
+	height: 102px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: center;
+	line-height: 20px;
+	color:#060606;
+}
+
+
+#ellipse_7 {
+	top: 0px;
+	left: 32px;
+	width: 123px;
+	height: 123px;
+	-ms-border-radius: 61.5px / 61.5px;
+	-o-border-radius: 61.5px / 61.5px;
+	-moz-border-radius: 61.5px / 61.5px;
+	-webkit-border-radius: 61.5px / 61.5px;
+	border-radius: 61.5px / 61.5px;
+	background:rgba(92,87,87,255);
+}
+
+
+#aa {
+	top: 0px !important;
+	position: absolute !important;
+	left: 32px;
+	width: 123px;
+	height: 123px;
+	background:url(skins/aa.png);
+	background-size:cover;
+}
+
+#group_12_ek1 {
+	top: 0px;
+	left: 248px;
+	width: 206px;
+	height: 281px;
+}
+#group_10_ek1 {
+	top: 151px;
+	left: 0px;
+	width: 206px;
+	height: 130px;
+}
+
+#sophie_turner_ {
+	top: 0px;
+	left: -4px;
+	width: 206px;
+	height: 43.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 25px;
+	text-align: center;
+	line-height: 25px;
+	color:#060606;
+}
+
+
+#ansa_stark_from_las_estrellas_de_game_of_thrones {
+	top: 42px;
+	left: -3px;
+	width: 206px;
+	height: 102px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: center;
+	line-height: 20px;
+	color:#060606;
+}
+
+
+#ellipse_7_ek1 {
+	top: 0px;
+	left: 32px;
+	width: 123px;
+	height: 123px;
+	-ms-border-radius: 61.5px / 61.5px;
+	-o-border-radius: 61.5px / 61.5px;
+	-moz-border-radius: 61.5px / 61.5px;
+	-webkit-border-radius: 61.5px / 61.5px;
+	border-radius: 61.5px / 61.5px;
+	background:rgba(92,87,87,255);
+}
+
+
+#aa_ek1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 32px;
+	width: 123px;
+	height: 123px;
+	background:url(skins/aa_ek1.png);
+	background-size:cover;
+}
+
+#group_12_ek2 {
+	top: 0px;
+	left: 496px;
+	width: 206px;
+	height: 281px;
+}
+#group_10_ek2 {
+	top: 151px;
+	left: 0px;
+	width: 206px;
+	height: 130px;
+}
+
+#kit_harington {
+	top: 0px;
+	left: -4px;
+	width: 206px;
+	height: 43.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 25px;
+	text-align: center;
+	line-height: 25px;
+	color:#060606;
+}
+
+
+#free_download_jon_snow_game_of_thrones_wallpapers {
+	top: 42px;
+	left: -3px;
+	width: 206px;
+	height: 102px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: center;
+	line-height: 20px;
+	color:#060606;
+}
+
+
+#ellipse_7_ek2 {
+	top: 0px;
+	left: 32px;
+	width: 123px;
+	height: 123px;
+	-ms-border-radius: 61.5px / 61.5px;
+	-o-border-radius: 61.5px / 61.5px;
+	-moz-border-radius: 61.5px / 61.5px;
+	-webkit-border-radius: 61.5px / 61.5px;
+	border-radius: 61.5px / 61.5px;
+	background:rgba(92,87,87,255);
+}
+
+
+#aa_ek2 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 32px;
+	width: 123px;
+	height: 123px;
+	background:url(skins/aa_ek2.png);
+	background-size:cover;
+}
+
+#group_12_ek3 {
+	top: 0px;
+	left: 744px;
+	width: 206px;
+	height: 281px;
+}
+#group_10_ek3 {
+	top: 151px;
+	left: 0px;
+	width: 206px;
+	height: 130px;
+}
+
+#emilia_clarke {
+	top: 0px;
+	left: -4px;
+	width: 206px;
+	height: 43.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 25px;
+	text-align: center;
+	line-height: 25px;
+	color:#060606;
+}
+
+
+#emilia_clarke_starred_as_daenerys_targaryen_in_the_hbo {
+	top: 42px;
+	left: -3px;
+	width: 206px;
+	height: 102px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: center;
+	line-height: 20px;
+	color:#060606;
+}
+
+
+#ellipse_7_ek3 {
+	top: 0px;
+	left: 32px;
+	width: 123px;
+	height: 123px;
+	-ms-border-radius: 61.5px / 61.5px;
+	-o-border-radius: 61.5px / 61.5px;
+	-moz-border-radius: 61.5px / 61.5px;
+	-webkit-border-radius: 61.5px / 61.5px;
+	border-radius: 61.5px / 61.5px;
+	background:rgba(92,87,87,255);
+}
+
+
+#aa_ek3 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 32px;
+	width: 123px;
+	height: 123px;
+	background:url(skins/aa_ek3.png);
+	background-size:cover;
+}
+
+
+#path_7 {
+	top: 1692px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 1080px;
+	height: 277px;
+	background:url(skins/path_7.png);
+	background-size:cover;
+}
+
+#group_16 {
+	top: 34.000030517578px;
+	left: 62px;
+	width: 129.78784179688px;
+	height: 53.499969482422px;
+}
+
+#path_1 {
+	top: -0px !important;
+	position: absolute !important;
+	left: 41px;
+	width: 89.775024414062px;
+	height: 54.503433227539px;
+	background:url(skins/path_1.png);
+	background-size:cover;
+}
+
+
+#path_2 {
+	top: 0px !important;
+	position: absolute !important;
+	left: -1px;
+	width: 39.011474609375px;
+	height: 53.310119628906px;
+	background:url(skins/path_2.png);
+	background-size:cover;
+}
+
+
+#path_3 {
+	top: 16px !important;
+	position: absolute !important;
+	left: 92px;
+	width: 21.932250976562px;
+	height: 21.951263427734px;
+	background:url(skins/path_3.png);
+	background-size:cover;
+}
+
+
+#untitle_3 {
+	top: 112px !important;
+	position: absolute !important;
+	left: -9px;
+	width: 1098px;
+	height: 345px;
+	background:url(skins/untitle_3.png);
+	background-size:cover;
+}
+
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua__ {
+	top: 242px;
+	left: 62px;
+	width: 282px;
+	height: 143px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	line-height: 20px;
+	color:#080808;
+}
+
+
+#rectangle_7_ek1 {
+	top: 362px;
+	left: 62px;
+	width: 280px;
+	height: 42px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #707070;
+	background:rgba(0,0,0,255);
+}
+
+
+#join_us_now {
+	top: 368px;
+	left: 101px;
+	width: 173px;
+	height: 38px;
+	font-family: Segoe UI;
+	font-size: 25px;
+	text-align: center;
+	color:#fdfdfd;
+}
+
+
+#watch {
+	top: 870px;
+	left: 376px;
+	width: 111px;
+	height: 46px;
+	font-family: Segoe UI;
+	font-size: 30px;
+	text-align: center;
+	color:#fdfdfd;
+}
+
+
+#rectangle_7_ek2 {
+	top: 655px;
+	left: 364px;
+	width: 174px;
+	height: 42px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #707070;
+	background:rgba(0,0,0,255);
+}
+
+
+#watch_ek1 {
+	top: 661px;
+	left: 404px;
+	width: 93px;
+	height: 38px;
+	font-family: Segoe UI;
+	font-size: 25px;
+	text-align: center;
+	color:#fdfdfd;
+}
+
+
+#rectangle_7_ek3 {
+	top: 910px;
+	left: 364px;
+	width: 174px;
+	height: 42px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #707070;
+	background:rgba(0,0,0,255);
+}
+
+
+#watch_ek2 {
+	top: 916px;
+	left: 404px;
+	width: 93px;
+	height: 38px;
+	font-family: Segoe UI;
+	font-size: 25px;
+	text-align: center;
+	color:#fdfdfd;
+}
+
+
+#game_of_thrones {
+	top: 185px;
+	left: 57px;
+	width: 287px;
+	height: 46px;
+	font-family: Segoe UI;
+	font-size: 30px;
+	text-align: center;
+	color:#050404;
+}
+
+#group_18 {
+	top: 471px;
+	left: 62px;
+	width: 478px;
+	height: 198px;
+}
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua_lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod____ {
+	top: 47px;
+	left: 0px;
+	width: 478px;
+	height: 155px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	line-height: 20px;
+	color:#080808;
+}
+
+
+#game_of_thrones_ek1 {
+	top: 0px;
+	left: -5px;
+	width: 287px;
+	height: 46px;
+	font-family: Segoe UI;
+	font-size: 30px;
+	text-align: center;
+	color:#050404;
+}
+
+#group_19 {
+	top: 726px;
+	left: 62px;
+	width: 488px;
+	height: 180px;
+}
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua_lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_____ek1 {
+	top: 57px;
+	left: 0px;
+	width: 488px;
+	height: 137px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	line-height: 20px;
+	color:#080808;
+}
+
+
+#game_of_thrones_ek2 {
+	top: 0px;
+	left: -5px;
+	width: 287px;
+	height: 46px;
+	font-family: Segoe UI;
+	font-size: 30px;
+	text-align: center;
+	color:#050404;
+}
+
+
+#sersy {
+	top: 471px !important;
+	position: absolute !important;
+	left: 632px;
+	width: 386px;
+	height: 228px;
+	background:url(skins/sersy.png);
+	background-size:cover;
+}
+
+
+#kal {
+	top: 726px !important;
+	position: absolute !important;
+	left: 629px;
+	width: 386px;
+	height: 228px;
+	background:url(skins/kal.png);
+	background-size:cover;
+}
+
+#group_17 {
+	top: 1077px;
+	left: 484px;
+	width: 112.49560546875px;
+	height: 112.28814697266px;
+}
+
+#path_5 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 112.49560546875px;
+	height: 112.28814697266px;
+	background:url(skins/path_5.png);
+	background-size:cover;
+}
+
+
+#path_6 {
+	top: 36px !important;
+	position: absolute !important;
+	left: 42px;
+	width: 36.237548828125px;
+	height: 40.940795898438px;
+	background:url(skins/path_6.png);
+	background-size:cover;
+}
+
+
+#social_and_media {
+	top: 1754px;
+	left: 625px;
+	width: 243px;
+	height: 38px;
+	font-family: Segoe UI;
+	font-size: 25px;
+	text-align: center;
+	color:#f9f9f9;
+}
+
+
+#facebook_twitter_youtube_rss_feed {
+	top: 1787px;
+	left: 629px;
+	width: 264px;
+	height: 143px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	line-height: 20px;
+	color:#fffefe;
+}
+
+
+#hbo_now__is_only_accessible_in_the_u_s__and_certain_u_s__territories_where_a_high_speed_broadband_connection_is_available__minimum_3g_connection_is_required_for_viewing_on_mobile_devices__hbo_now__is_available_through_participating_partners_ {
+	top: 1777px;
+	left: 62px;
+	width: 511px;
+	height: 314px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	line-height: 20px;
+	color:#ffffff;
+}
+
+#group_20 {
+	top: 1721px;
+	left: 66px;
+	width: 129.78784179688px;
+	height: 53.5px;
+}
+
+#path_1_ek1 {
+	top: -0px !important;
+	position: absolute !important;
+	left: 41px;
+	width: 89.775024414062px;
+	height: 54.50341796875px;
+	background:url(skins/path_1_ek1.png);
+	background-size:cover;
+}
+
+
+#path_2_ek1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: -1px;
+	width: 39.011474609375px;
+	height: 53.310180664062px;
+	background:url(skins/path_2_ek1.png);
+	background-size:cover;
+}
+
+
+#path_3_ek1 {
+	top: 16px !important;
+	position: absolute !important;
+	left: 92px;
+	width: 21.932250976562px;
+	height: 21.951171875px;
+	background:url(skins/path_3_ek1.png);
+	background-size:cover;
+}
+
+
+
+/* Add your custom CSS here */
